@@ -42,3 +42,4 @@ hs_err_pid*
 
 # Node 模块
 node_modules/
+*/node_modules/
